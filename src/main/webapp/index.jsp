@@ -8,7 +8,7 @@
 
 <h1>Jenkins CI/CD Maven Project Running Successfully</h1>
 <h2>Jenkins</h2>
-<b>hui</b>
+<b>hi</b>
 <br></br>
 <a href = "https://www.google.com">google</a>
 </body>
